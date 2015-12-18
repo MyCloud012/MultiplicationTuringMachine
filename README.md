@@ -40,6 +40,6 @@ The first part of the machine (RHS) is basically inserting the 7 ones followed b
 
 Complete run output for the function in Java program: https://gist.github.com/MyCloud012/ccfdf8e6e99a50c8834b
 
-If you are interested in this kind of science, I recommend textbook "the Introcuction to Theory of computation by Micheal Sipser Ist Ed".
+If you are interested in this kind of science, I recommend textbook "Introcuction to Theory of computation by Micheal Sipser Ist Ed".
 
 PS: The implementation is not following any of the principles for code modularity, its more like a handy implementation for simulation purposes.
